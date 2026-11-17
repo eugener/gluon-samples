@@ -18,7 +18,7 @@
 		"nativescript-randombytes": "^1.0.0",
 		"nativescript-theme-core": "~1.0.4",
 		"oauth-1.0a": "^2.2.4",
-		"qs": "^6.5.1",
+		"qs": "^6.16.1",
 		"tns-core-modules": "~3.4.0",
 		"uuid": "^3.2.1"
 	},
