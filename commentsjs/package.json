@@ -20,7 +20,7 @@
 		"oauth-1.0a": "^2.2.4",
 		"qs": "^6.16.1",
 		"tns-core-modules": "~3.4.0",
-		"uuid": "^3.2.1"
+		"uuid": "^14.0.0"
 	},
 	"devDependencies": {
 		"babel-traverse": "6.26.0",
